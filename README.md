@@ -2,7 +2,7 @@
 
 🎓 I recently completed my Master's degree in Data Science from the University of Central Lancashire, where I honed my skills in statistics, machine learning, deep learning, and computer vision.
 
-💬 My Personal motive is to give my full potential to build AI-based solutions that solve high-impact problems for people around the globe and simplify everyday living.
+💬 My motive is to give my full potential to build AI-based solutions that solve high-impact problems for people around the globe and simplify everyday living.
 
 💞️ I’m looking to collaborate on Data Science Projects
 
