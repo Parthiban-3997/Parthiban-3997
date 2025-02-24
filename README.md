@@ -24,7 +24,7 @@ Currently building next-generation AI systems at **Alpha P**, specializing in cr
 
 <img align="right" width="300" src="https://s1.ezgif.com/tmp/ezgif-1a7c64f68ea0a6.gif">
 
-## 💡 What I Bring to the Table
+### 💡 What I Bring to the Table
 - **AI Engineering** expertise with hands-on experience in advanced frameworks like CrewAI, LangGraph, LlamaIndex and AutoGen
 - **Production-grade RAG systems** development with sophisticated retrieval mechanisms
 - **Enterprise systems knowledge** from 3+ years as an SAP professional, bringing unique technical breadth
