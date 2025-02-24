@@ -15,20 +15,14 @@ Currently building next-generation AI systems at **Alpha P**, specializing in cr
 ## 🔄 My Data Science Workflow
 
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" style="max-width: 100%; height: auto;">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" preserveAspectRatio="xMidYMid meet" style="max-width: 100%; height: auto;">
     <style>
-      @media (max-width: 600px) {
-        text { font-size: 12px; }
-        rect { width: 60px; height: 80px; }
-        circle:not(.gear) { r: 40px; }
-        .gear { r: 12px; }
-        path[stroke-width="3"] { stroke-width: 2; }
-      }
       @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
       @keyframes slideRight { from { transform: translateX(-50px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
       @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.05); } 100% { transform: scale(1); } }
       @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
       @keyframes dash { to { stroke-dashoffset: 0; } }
+      
       .scientist { animation: fadeIn 1s ease-out forwards; }
       .data { animation: slideRight 1s ease-out forwards; animation-delay: 1s; opacity: 0; }
       .cleaning { animation: slideRight 1s ease-out forwards; animation-delay: 2s; opacity: 0; }
@@ -38,6 +32,14 @@ Currently building next-generation AI systems at **Alpha P**, specializing in cr
       .gear { animation: rotate 8s linear infinite; transform-origin: center; }
       .pulse { animation: pulse 2s ease-in-out infinite; }
       .flow-line { stroke-dasharray: 300; stroke-dashoffset: 300; animation: dash 2s linear forwards; animation-delay: 6s; }
+      
+      @media (max-width: 600px) {
+        text { font-size: 12px; }
+        rect { width: 60px; height: 80px; }
+        circle:not(.gear) { r: 40px; }
+        .gear { r: 12px; }
+        path[stroke-width="3"] { stroke-width: 2; }
+      }
     </style>
 
     <!-- Background -->
