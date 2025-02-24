@@ -4,10 +4,20 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/parthiban-ravichandran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rparthiban729@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://parthiban-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/parthiban-ravichandran/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rparthiban729@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://parthiban-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Parthi_3997/">
+    <img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white"/>
+  </a>
 </p>
+
 
 ## 👨‍💻 Current Focus
 Currently building next-generation AI systems at **Alpha P**, specializing in creating scalable agentic frameworks and implementing RAG architectures. Passionate about bridging the gap between theoretical AI research and practical business applications.
