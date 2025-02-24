@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white"/>
   </a>
   <a href="https://x.com/Parthi_3997/">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-%20-000000?style=flat-square&logo=x&logoColor=white"/>
   </a>
 </p>
 
