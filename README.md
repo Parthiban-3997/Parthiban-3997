@@ -7,20 +7,92 @@
   <a href="https://www.linkedin.com/in/parthiban-ravichandran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rparthiban729@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://parthiban-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white"/></a>
-  <a href="tel:07833883974"><img src="https://img.shields.io/badge/-07833883974-128C7E?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ## 👨‍💻 Current Focus
 Currently building next-generation AI systems at **Alpha P**, specializing in creating scalable agentic frameworks and implementing RAG architectures. Passionate about bridging the gap between theoretical AI research and practical business applications.
 
-<img align="right" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZhbXUwNWFzMXl2b3hwdnRhMnN6Z3NkcWlmdmF6YzN2eDVudHRmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcHiKz2CjfP2hP8jM/giphy.gif">
+#<img align="right" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZhbXUwNWFzMXl2b3hwdnRhMnN6Z3NkcWlmdmF6YzN2eDVudHRmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcHiKz2CjfP2hP8jM/giphy.gif">
+## 🔄 My Data Science Workflow
+
+<div align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%">
+    <style>
+      @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes slideRight { from { transform: translateX(-50px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+      @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.05); } 100% { transform: scale(1); } }
+      @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+      @keyframes dash { to { stroke-dashoffset: 0; } }
+      .scientist { animation: fadeIn 1s ease-out forwards; }
+      .data { animation: slideRight 1s ease-out forwards; animation-delay: 1s; opacity: 0; }
+      .cleaning { animation: slideRight 1s ease-out forwards; animation-delay: 2s; opacity: 0; }
+      .analysis { animation: slideRight 1s ease-out forwards; animation-delay: 3s; opacity: 0; }
+      .model { animation: slideRight 1s ease-out forwards; animation-delay: 4s; opacity: 0; }
+      .output { animation: slideRight 1s ease-out forwards; animation-delay: 5s; opacity: 0; }
+      .gear { animation: rotate 8s linear infinite; transform-origin: center; }
+      .pulse { animation: pulse 2s ease-in-out infinite; }
+      .flow-line { stroke-dasharray: 300; stroke-dashoffset: 300; animation: dash 2s linear forwards; animation-delay: 6s; }
+    </style>
+    
+    <!-- Background -->
+    <rect width="800" height="400" fill="#f5f7fa" />
+    
+    <!-- Data Scientist -->
+    <g class="scientist">
+      <circle cx="120" cy="200" r="50" fill="#6c5ce7" />
+      <text x="120" y="205" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Data Scientist</text>
+    </g>
+    
+    <!-- Raw Data -->
+    <g class="data">
+      <rect x="220" y="150" width="80" height="100" rx="10" fill="#74b9ff" />
+      <text x="260" y="205" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Raw Data</text>
+    </g>
+    
+    <!-- Data Cleaning -->
+    <g class="cleaning">
+      <rect x="330" y="150" width="80" height="100" rx="10" fill="#00cec9" />
+      <text x="370" y="205" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Data Cleaning</text>
+      <circle cx="370" cy="170" r="15" fill="#ffffff" class="gear" />
+      <path d="M370 165 L370 175 M365 170 L375 170" stroke="#00cec9" stroke-width="3" />
+    </g>
+    
+    <!-- Analysis -->
+    <g class="analysis">
+      <rect x="440" y="150" width="80" height="100" rx="10" fill="#fdcb6e" />
+      <text x="480" y="205" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Analysis</text>
+      <path d="M460 180 L500 180 M460 170 L470 170 M480 170 L500 170" stroke="#ffffff" stroke-width="2" />
+    </g>
+    
+    <!-- Model Building -->
+    <g class="model">
+      <rect x="550" y="150" width="80" height="100" rx="10" fill="#e84393" />
+      <text x="590" y="205" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Model Building</text>
+      <circle cx="590" cy="170" r="15" fill="#ffffff" class="gear" />
+      <path d="M590 165 L590 175 M585 170 L595 170 M587 167 L593 173 M587 173 L593 167" stroke="#e84393" stroke-width="2" />
+    </g>
+    
+    <!-- Output -->
+    <g class="output pulse">
+      <rect x="660" y="150" width="80" height="100" rx="10" fill="#55efc4" />
+      <text x="700" y="205" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Results &amp; Insights</text>
+      <path d="M675 170 L685 180 L695 165 L705 185 L715 175" stroke="#ffffff" stroke-width="2" fill="none" />
+    </g>
+    
+    <!-- Flow Lines -->
+    <path class="flow-line" d="M170 200 L220 200" stroke="#a29bfe" stroke-width="3" fill="none" />
+    <path class="flow-line" d="M300 200 L330 200" stroke="#a29bfe" stroke-width="3" fill="none" />
+    <path class="flow-line" d="M410 200 L440 200" stroke="#a29bfe" stroke-width="3" fill="none" />
+    <path class="flow-line" d="M520 200 L550 200" stroke="#a29bfe" stroke-width="3" fill="none" />
+    <path class="flow-line" d="M630 200 L660 200" stroke="#a29bfe" stroke-width="3" fill="none" />
+  </svg>
+</div>
 
 ## 💡 What I Bring to the Table
 - **AI Engineering** expertise with hands-on experience in advanced frameworks like CrewAI, LangGraph, LlamaIndex and AutoGen
 - **Production-grade RAG systems** development with sophisticated retrieval mechanisms
 - **Enterprise systems knowledge** from 3+ years as an SAP professional, bringing unique technical breadth
 - **MSc in Applied Data Science** with proven ability to translate academic concepts into business value
-- **UK Graduate Visa** holder available for full-time opportunities (40 hours/week)
 
 ## 🛠️ Technical Arsenal
 
