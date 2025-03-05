@@ -25,7 +25,7 @@
 ## 👨‍💻 Current Focus
 Currently building next-generation AI systems at **Alpha P**, specializing in creating scalable agentic frameworks and implementing RAG architectures. Passionate about bridging the gap between theoretical AI research and practical business applications.
 
-<img align="right" width="300" src="https://s1.ezgif.com/tmp/ezgif-1a7c64f68ea0a6.gif">
+<img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNraTI2dmRnMGFoeWhkNjc5aGloMTBkdzBiZm4yejE1NzlvdHh1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.gif">
 
 ### 💡 What I Bring to the Table
 - **AI Engineering** expertise with hands-on experience in advanced frameworks like CrewAI, LangGraph, LlamaIndex and AutoGen
