@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=AI+Engineer+at+Alpha+P;Data+Scientist;LLM+%26+Agentic+AI+Specialist;SAP+Systems+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Data+Scientist;LLM+%26+Agentic+AI+Specialist;SAP+Systems+Expert" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 
 ## 👨‍💻 Current Focus
-Currently building next-generation AI systems at **Alpha P**, specializing in creating scalable agentic frameworks and implementing RAG architectures. Passionate about bridging the gap between theoretical AI research and practical business applications.
+Currently focusing on building next-generation Agentic AI systems, specialising in creating scalable agentic frameworks and implementing RAG architectures. Passionate about bridging the gap between theoretical AI research and practical business applications.
 
 <img align="right" width="300" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
